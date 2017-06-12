@@ -1,3 +1,4 @@
 .idea/*
 posts.txt
 .DS_Store
+*.pyc
