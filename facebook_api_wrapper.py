@@ -5,7 +5,7 @@ import urlparse
 TEMP_DEFAULT_ACCESS_TOKEN_HERE = 'YOUR_ACCESS_TOKEN_HERE'
 DEFAULT_PAGE_ID = 'nytimes'
 DEFAULT_FIELDS = 'id,message,link,name,caption,description'
-DEFAULT_MAX_POSTS = 90
+DEFAULT_MAX_POSTS = 1000
 QUERY_LIMIT_SIZE = 25
 
 
